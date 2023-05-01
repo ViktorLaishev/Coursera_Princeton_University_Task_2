@@ -11,4 +11,4 @@ public class Permutation {
             System.out.println(que.dequeue());
         }
     }
-} 
+}  
