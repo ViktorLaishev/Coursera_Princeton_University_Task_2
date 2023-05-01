@@ -7,7 +7,7 @@ public class Deque<Item> implements Iterable<Item> {
     private int size = 0; 
 
     /**  construct an empty deque */
-    public Deque() {
+    public Deque() { 
     } 
 
     /**   пусто не,?is the deque empty? */
