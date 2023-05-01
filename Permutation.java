@@ -10,5 +10,5 @@ public class Permutation {
         for (int i = 0; i < k; i++) {
             System.out.println(que.dequeue());
         }
-    }
+    } 
 }  
