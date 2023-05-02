@@ -8,7 +8,7 @@ public class Deque<Item> implements Iterable<Item> {
     public Deque()
  
     // is the deque empty?
-    public boolean isEmpty()
+    public boolean isEmpty() 
 
     // return the number of items on the deque
     public int size()
