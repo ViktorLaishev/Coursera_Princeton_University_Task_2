@@ -4,7 +4,7 @@ Dequeue. A double-ended queue or deque (pronounced “deck”) is a generalizati
 
 public class Deque<Item> implements Iterable<Item> {
 
-    // construct an empty deque
+    // construct an empty deque 
     public Deque()
 
     // is the deque empty?
