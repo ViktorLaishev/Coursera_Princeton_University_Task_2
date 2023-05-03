@@ -6,7 +6,7 @@ public class Deque<Item> implements Iterable<Item> {
     private Element<Item> last = null;      
     private int size = 0;      
 
-    /**  construct an empty deque */  
+    /**  construct an empty deque */   
     public Deque() { 
     } 
 
