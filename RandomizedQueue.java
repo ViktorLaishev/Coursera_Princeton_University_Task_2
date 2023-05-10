@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.StdRandom;
 public class RandomizedQueue<Item> implements Iterable<Item> {
     private int n = 1; 
     private Item[] items; 
-    private int size = 0;
+    private int size = 0; 
  
     /** construct an empty randomized queue */
     public RandomizedQueue() {
